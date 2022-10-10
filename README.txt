@@ -14,6 +14,8 @@ Run main
 '◄','►' decrease, increase speed
 '▼','▲' decrease, increase star trail length
 
+Top left for fps, speed & fade time
+
 
 https://en.wikipedia.org/wiki/Star_trail
 
