@@ -36,8 +36,8 @@ public class Main extends PApplet {
 
         setStars();
 
-        bg = loadImage("src/bg5.png");
-        textFont(createFont("Fonts/Montserrat-Medium.ttf", 10));
+        bg = loadImage("bg5.png");
+        //textFont(createFont("Fonts/Montserrat-Medium.ttf", 10));
 
         frameRate(999);
     }
