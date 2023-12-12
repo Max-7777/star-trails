@@ -10,7 +10,7 @@ Eclipse:
 Open Project 
 Run main
 
-Make sure core.jar is indicated as a library.
+Make sure core.jar is known as a library in the IDE.
 
 Controls:
 Arrow keys:
