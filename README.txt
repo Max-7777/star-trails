@@ -10,11 +10,14 @@ Eclipse:
 Open Project 
 Run main
 
+Make sure core.jar is indicated as a library.
 
+Controls:
+Arrow keys:
 '◄','►' decrease, increase speed
 '▼','▲' decrease, increase star trail length
 
-Top left for fps, speed & fade time
+Top left for fps, speed & fade time.
 
 
 https://en.wikipedia.org/wiki/Star_trail
